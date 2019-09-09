@@ -14,7 +14,7 @@ public class PrintExercise {
 		System.out.println("Hotel");
 		System.out.println("McLean");
 		System.out.println("");
-		System.out.println("This is B12.");
+		
 		
 	}
 
