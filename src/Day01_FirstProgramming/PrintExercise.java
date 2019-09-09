@@ -4,7 +4,7 @@ public class PrintExercise {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		// update
 		System.out.println("Mike");
 		System.out.println("Smith");
 		System.out.println("Jonny");
