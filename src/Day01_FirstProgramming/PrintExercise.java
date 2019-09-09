@@ -12,8 +12,7 @@ public class PrintExercise {
 		System.out.println("");
 		System.out.println("HelloMelloGolf");
 		System.out.println("Hotel");
-		System.out.println("McLean");
-		System.out.println("");
+		
 		
 		
 	}
